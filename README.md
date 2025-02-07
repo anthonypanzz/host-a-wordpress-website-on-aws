@@ -45,6 +45,7 @@ This project demonstrates the deployment of a WordPress website on AWS using var
 
 10. **Application Load Balancer (ALB):** Distributes web traffic evenly to an Auto Scaling Group of EC2 instances.
 ![Screenshot 2025-02-07 052604](https://github.com/user-attachments/assets/57be8ea1-63e1-44bd-a7a6-934334f310d5)
+![Screenshot 2025-02-07 053115](https://github.com/user-attachments/assets/56b3c95d-9531-496a-83f6-d69f7d6420ee)
 
 
 11. **Auto Scaling Group (ASG):** Manages EC2 instances automatically for scalability and availability.
@@ -72,6 +73,12 @@ This project demonstrates the deployment of a WordPress website on AWS using var
 
 17. **Relational Database Service (RDS):** Manages the database for WordPress.
 ![Screenshot 2025-02-07 052535](https://github.com/user-attachments/assets/12371a85-edd1-47c0-a93c-64e33293e52d)
+
+![Screenshot 2025-02-04 002108](https://github.com/user-attachments/assets/82c68688-659c-42cf-80e4-f12a7a79d640)
+![Screenshot 2025-02-04 002003](https://github.com/user-attachments/assets/67b29e8a-44b9-4ec7-ad5e-aaeca90d406d)
+![Screenshot 2025-02-07 051836](https://github.com/user-attachments/assets/9b64f831-76af-48f9-aae9-102d75a1f5d7)
+![Screenshot 2025-02-07 051903](https://github.com/user-attachments/assets/06dfc20a-47e2-4153-b5d8-c5e3afc11781)
+![Screenshot 2025-02-07 051914](https://github.com/user-attachments/assets/3776df59-81fd-4e7d-b3d3-fdbcc9943c4a)
 
 
 ## Installation and Deployment
