@@ -1,4 +1,4 @@
-![Alt text](
+![Alt text](Host_a_WordPress_Website_on_AWS.png)
 
 
 
