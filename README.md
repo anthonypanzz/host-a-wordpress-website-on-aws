@@ -129,6 +129,6 @@ After setting up the infrastructure and executing the scripts, navigate to the r
 ## Conclusion
 This project effectively demonstrates the use of AWS services to host a highly available, secure, and scalable WordPress website. The implementation leverages best practices for networking, security, and automation to ensure seamless operation.
 
-For more details, refer to the project's GitHub repository.
+
 
 
