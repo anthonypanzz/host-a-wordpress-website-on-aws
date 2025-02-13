@@ -10,6 +10,7 @@ This project demonstrates the deployment of a WordPress website on AWS using var
 ![Screenshot 2025-02-07 052036](https://github.com/user-attachments/assets/cbbb8386-cb5c-4d7c-b13d-f9dcbd8ef15c)
 ---
 2. **Internet Gateway:** Enables connectivity between the VPC instances and the Internet.
+![Screenshot 2025-02-11 054414](https://github.com/user-attachments/assets/53e80c3a-2553-475c-b4c6-0b8fbd235f6f)
 ---
 3. **Security Groups:** Implemented as a firewall mechanism to regulate traffic.
 ![Screenshot 2025-02-07 052308](https://github.com/user-attachments/assets/0dfab377-90f2-493a-a6f0-03ec5a658a4b)
