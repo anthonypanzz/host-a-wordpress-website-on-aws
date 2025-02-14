@@ -4,7 +4,9 @@
 
 ## Project Overview
 This project demonstrates the deployment of a WordPress website on AWS using various AWS services to ensure high availability, security, and scalability.
+
 ---
+
 ## Architecture Components
 1. **Virtual Private Cloud (VPC):** Configured with public and private subnets across two Availability Zones.
 ![Screenshot 2025-02-07 052036](https://github.com/user-attachments/assets/cbbb8386-cb5c-4d7c-b13d-f9dcbd8ef15c)
