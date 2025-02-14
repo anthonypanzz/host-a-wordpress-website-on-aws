@@ -3,7 +3,7 @@
 # WordPress Website Deployment on AWS
 
 ## Project Overview
-This project demonstrates the deployment of a WordPress website on AWS using various AWS services to ensure high availability, security, and scalability. The reference architecture, along with the scripts used for deployment, is available in the project's GitHub repository.
+This project demonstrates the deployment of a WordPress website on AWS using various AWS services to ensure high availability, security, and scalability.
 ---
 ## Architecture Components
 1. **Virtual Private Cloud (VPC):** Configured with public and private subnets across two Availability Zones.
